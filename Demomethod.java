@@ -6,5 +6,8 @@ public class Demomethod{
         myMethod();
         myMethod();
         myMethod();
+        myMethod();
+        myMethod();
+        myMethod();
     }
 }
